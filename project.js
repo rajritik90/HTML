@@ -1,7 +1,6 @@
-console.log("My first project")
-const accountId = 90230
-let account_Password = "12345"
-accoundCity = "jaipur"
-console.log(accountId);
-console.log(accoundCity);
-console.log(account_Password);
+let score = 33
+console.log(typeof score);
+console.log(typeof (score));
+let score_2 = Number(score);
+console.log(typeof score_2);
+console.log(typeof (score_2));
