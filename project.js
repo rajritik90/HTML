@@ -9,3 +9,6 @@ console.log(typeof score_2);
 let value = 3
 let neg = -value
 console.log(neg);
+let gamecounter = 100
+++gamecounter
+console.log(gamecounter);
